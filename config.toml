@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://socia-data-visualization.netlify.app/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = "hyde"
