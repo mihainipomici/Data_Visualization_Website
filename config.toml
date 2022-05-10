@@ -1,8 +1,25 @@
 baseURL = 'https://socia-data-visualization.netlify.app/'
 languageCode = 'en-us'
-title = 'New York Trees Analysis'
+title = 'Trees in New York!'
 theme = "hyde"
 
 [params]
-  description = "An analysis on trees importance on air quality in New York"
+  description = "A study on the impact of trees on air quality in New York"
   themeColor = "theme-base-0b"
+  authorImage = "/images/avatar.jpg"
+
+[menu]
+ [[menu.main]]
+    identifier = 'home'
+    name = 'Home'
+    pre = "<i class='fa fa-heart'></i>"
+    url = '/home/'
+    weight  = 1
+
+ [[menu.main]]
+    identifier = 'about-us'
+    name = 'About'
+    pre = "<i class='fa fa-heart'></i>"
+    url = '/about-us/'
+    weight  = 2
+
