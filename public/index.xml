@@ -1,19 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>http://example.org/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>Trees in New York!</title>
+    <link>https://socia-data-visualization.netlify.app/</link>
+    <description>Recent content on Trees in New York!</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 10 May 2022 12:02:53 +0200</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://socia-data-visualization.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Main Post</title>
-      <link>http://example.org/post/main_post/</link>
-      <pubDate>Tue, 10 May 2022 12:02:53 +0200</pubDate>
+      <title>About_us</title>
+      <link>https://socia-data-visualization.netlify.app/about-us/</link>
+      <pubDate>Tue, 10 May 2022 13:39:36 +0200</pubDate>
       
-      <guid>http://example.org/post/main_post/</guid>
-      <description></description>
+      <guid>https://socia-data-visualization.netlify.app/about-us/</guid>
+      <description>information about us </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://socia-data-visualization.netlify.app/home/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://socia-data-visualization.netlify.app/home/</guid>
+      <description>home page here we create the home page</description>
     </item>
     
   </channel>
