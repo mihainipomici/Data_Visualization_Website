@@ -1,4 +1,8 @@
 baseURL = 'https://socia-data-visualization.netlify.app/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'New York Trees Analysis'
 theme = "hyde"
+
+[params]
+  description = "An analysis on trees importance on air quality in New York"
+  themeColor = "theme-base-0b"
